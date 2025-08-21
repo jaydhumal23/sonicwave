@@ -6,4 +6,4 @@ SonicWave is a **web-based music player** powered by **Express.js, EJS, and Java
 <br/>
 <img src="./assets/s1.png" alt="img of music player" />
 <br/>
-<img src="./assets/s1.png" alt="img of music player"/>
+<img src="./assets/s2.png" alt="img of music player"/>
