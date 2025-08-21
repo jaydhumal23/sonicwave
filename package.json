@@ -1,0 +1,25 @@
+{
+  "name": "sonicwave",
+  "version": "1.0.0",
+  "description": "<h3> sonicwave : <a href=\"https://sonicwave-1jay.vercel.app\" target=\"_blank\">Click-Here</a> </h3> <h4>A music player built with HTML, CSS, and JavaScript, offering high-quality audio playback.</h4> <br/> <img src=\"./assets/d1.png\" alt=\"img of music player\" /> <br/> <img src=\"./assets/d2.png\" alt=\"img of music player\"/>",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydhumal23/sonicwave.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydhumal23/sonicwave/issues"
+  },
+  "homepage": "https://github.com/jaydhumal23/sonicwave#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
