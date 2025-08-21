@@ -3,7 +3,9 @@ const app = express();
 // const PORT = 3001
 const path = require("path")
 app.set("view engine", "ejs")
+app.set("views", path.join(__dirname, "views")); //comment while running at local server
 app.use(express.static(path.join(__dirname, "public")));
+
 app.get("/", (req, res) => {
     res.redirect("/home")
 })
