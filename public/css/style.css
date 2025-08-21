@@ -234,6 +234,7 @@
   width: 70px;
 }
 .footer {
+  padding-right: 8px;
   align-self: flex-end;
   color: rgb(195, 193, 193);
   font-size: 0.55rem;
